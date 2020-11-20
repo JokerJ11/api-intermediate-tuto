@@ -1,0 +1,18 @@
+Rest API development using JWT authentication in PHP
+
+	JWT (JSON Web Token)
+		- https://jwt.io/
+		- https://github.com/firebase/php-jwt
+		- Use for authentication
+		- comprised of user encrypted information
+		- that can be used to authenticate users and exchange information between clients and servers.
+
+	REST (Representational state transfer)
+		- Architecture for creating RESTful web services
+		- RESTful APIs are stateless.
+		- This means, that requests from clients should contain all the 
+		  necessary information required to process the request.
+
+	Tools 
+		- Postman (Chrome)
+		- Poster (Firefox)
